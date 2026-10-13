@@ -1,0 +1,7 @@
+{
+  "name": "SocialFlow Panel",
+  "description": "High-impact social growth SMM panel with real-time order processing, live services catalog, wallet management, support tickets, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
